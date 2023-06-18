@@ -1,0 +1,9 @@
+pismice_maigre
+pismice_gros
+requin_marteau
+crapidouille
+clone
+rat_clair
+rat_fonce
+requin_gris
+souris
